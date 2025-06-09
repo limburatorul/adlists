@@ -1,0 +1,3 @@
+# Blocklist index - updated: 2025-06-09 10:04:23
+https://raw.githubusercontent.com/limburatorul/adlists/main/merged_blocklist_part_aa
+https://raw.githubusercontent.com/limburatorul/adlists/main/merged_blocklist_part_ab
